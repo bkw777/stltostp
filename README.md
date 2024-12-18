@@ -3,7 +3,7 @@ Command line utility to convert stl files to STEP (ISO 10303-21) files. The tran
 ![Image of stltostp input_output](https://github.com/slugdev/stltostp/blob/master/doc/input_output.jpg)
 
 ### Usage
-`stltostp <stl_file> <step_file> \[ tol \<value\> \]`
+`stltostp <stl_file> <step_file> [ tol \<value\> ]`
 
 ![Image of stltostp usage](https://github.com/slugdev/stltostp/blob/master/doc/example.jpg)
 
