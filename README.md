@@ -11,7 +11,7 @@ stltostp <stl_file> <step_file> \[ tol \<value\> \]
 mkdir build
 cd build
 cmake ..
-make
+make clean all && sudo make install
 ```
 ### License 
 BSD
